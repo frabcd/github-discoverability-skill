@@ -1,0 +1,17 @@
+{
+  "fixture": "synthetic",
+  "growth_evidence": false,
+  "before": {
+    "result": "BLOCKED",
+    "rules": [
+      "license",
+      "broken-local-link"
+    ]
+  },
+  "after": {
+    "result": "CHECKS_PASSED",
+    "blockers": 0,
+    "review_items": 0
+  },
+  "meaning": "Only these local hygiene checks improved; no search/usage/stars claim."
+}

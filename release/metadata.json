@@ -1,0 +1,20 @@
+{
+  "repository": "frabcd/github-discoverability-skill",
+  "suggested_name": "github-discoverability-skill",
+  "description": "GitHub launch and publishing skill for coding agents: search-aware README and topics, reviewed upload scope, and evidence-based release lessons.",
+  "topics": [
+    "agent-skills",
+    "github",
+    "github-automation",
+    "developer-tools",
+    "release-management",
+    "documentation",
+    "open-source"
+  ],
+  "visibility": null,
+  "homepage": null,
+  "create_release": false,
+  "version": "0.1.0",
+  "growth_target_stars": 5000,
+  "growth_target_is_guaranteed": false
+}

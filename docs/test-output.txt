@@ -1,0 +1,32 @@
+test_audit_does_not_write (test_package.AuditTests.test_audit_does_not_write) ... ok
+test_bad_skill_name (test_package.AuditTests.test_bad_skill_name) ... ok
+test_broken_link (test_package.AuditTests.test_broken_link) ... ok
+test_clean_fixture (test_package.AuditTests.test_clean_fixture) ... ok
+test_cli_missing_target_fails (test_package.AuditTests.test_cli_missing_target_fails) ... ok
+test_code_fence_not_link_checked (test_package.AuditTests.test_code_fence_not_link_checked) ... ok
+test_credential_is_redacted (test_package.AuditTests.test_credential_is_redacted) ... ok
+test_existing_local_link (test_package.AuditTests.test_existing_local_link) ... ok
+test_good_skill_name (test_package.AuditTests.test_good_skill_name) ... ok
+test_large_file_reported (test_package.AuditTests.test_large_file_reported) ... ok
+test_missing_license (test_package.AuditTests.test_missing_license) ... ok
+test_missing_readme (test_package.AuditTests.test_missing_readme) ... ok
+test_outside_link (test_package.AuditTests.test_outside_link) ... ok
+test_private_key_marker (test_package.AuditTests.test_private_key_marker) ... ok
+test_repo_binding_is_review (test_package.AuditTests.test_repo_binding_is_review) ... ok
+test_sensitive_filename (test_package.AuditTests.test_sensitive_filename) ... ok
+test_symlink_not_followed (test_package.AuditTests.test_symlink_not_followed) ... ok
+test_template_env_allowed (test_package.AuditTests.test_template_env_allowed) ... ok
+test_topic_limit (test_package.AuditTests.test_topic_limit) ... ok
+test_binding (test_package.ManifestTests.test_binding) ... ok
+test_binding_idempotent (test_package.ManifestTests.test_binding_idempotent) ... ok
+test_corruption_blocked (test_package.ManifestTests.test_corruption_blocked) ... ok
+test_different_rebind_blocked (test_package.ManifestTests.test_different_rebind_blocked) ... ok
+test_extra_file_blocked (test_package.ManifestTests.test_extra_file_blocked) ... ok
+test_invalid_destination_blocked (test_package.ManifestTests.test_invalid_destination_blocked) ... ok
+test_unsafe_manifest_path_blocked (test_package.ManifestTests.test_unsafe_manifest_path_blocked) ... ok
+test_verify (test_package.ManifestTests.test_verify) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 0.590s
+
+OK

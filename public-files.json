@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5355a22ca40b3c69e1c75b58d663306afb4dbee4c9eeab46b529944358f3686e"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "e1e8a7fb0513e265bbecc7af3502b328eb79da0dfdf41f44a50a284777d90da2"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "e2c9aa2db174f3596a205b1a8eaba35fb6723dcb79a4ea2606a1c8a4c1c7a822"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "d852d8b787b43733bc819d67c4e0d427c8a6a72cecb03fcef2f9bff3a85e20d3"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "99e6cea94313fcaec1f91ae83671f865e9e5b8a0614922610dc8df1f2ac9e14b"
+    },
+    {
+      "path": "README.md",
+      "sha256": "72bfdfd653fad7b6665c3e9828589f1c8a44cf0509359164637e12db9d4a8b5a"
+    },
+    {
+      "path": "README.zh-CN.md",
+      "sha256": "ec8bfe97b1d0e477840f2f6f916343d30f31c2462e01463adb68264222a275c7"
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "40fb755733a87a90123fab6a78ed25ebf3088ae8ffab7eb7c5cbe988a96b993a"
+    },
+    {
+      "path": "UPLOAD_ONLY_PROMPT.md",
+      "sha256": "0f105f5a1a3d5123578a161ca282c4ab5bce8507c8c28ebf51613bdb4abeca1e"
+    },
+    {
+      "path": "docs/research.md",
+      "sha256": "0353dc0c24c5eddd463531921e224dca19575793caa7798dae19e153f93f1272"
+    },
+    {
+      "path": "docs/sources.md",
+      "sha256": "2540cd8362ee39324da1d409c29a038635f5119a902a83f240d9544bc49f57d5"
+    },
+    {
+      "path": "docs/test-output.txt",
+      "sha256": "c53c0b45b60a80e44e153f8e39046c27b76661df2cd1c6e779df81c9d906d17e"
+    },
+    {
+      "path": "docs/validation.md",
+      "sha256": "4521e8209210d3ec1e07038b46135c834a80bfbfe087265445eb06233b9e51ca"
+    },
+    {
+      "path": "examples/demo-output.json",
+      "sha256": "025b55a8e79df21a94bea3a2cbe4328f23c789497c5caa28ee5cf2a14f63ca5a"
+    },
+    {
+      "path": "release/launch-drafts.md",
+      "sha256": "3ff1e4f45d3da53e36953f2b64188459a6a9015ddc8a7f79aa700f12930fe488"
+    },
+    {
+      "path": "release/metadata.json",
+      "sha256": "83572e19b05c9f2ecbe548f3474cb61abe63e910a8651c8aed3679eea1496a4b"
+    },
+    {
+      "path": "release/search-plan.md",
+      "sha256": "0f1f4fa67083168483d9d7858a02f0537afe66f26da97691d56c1ec906df2b49"
+    },
+    {
+      "path": "scripts/demo.py",
+      "sha256": "482dd95197072dab5192c5f0e02cd0780a8fcc70f72269cd1fb2094d539510a6"
+    },
+    {
+      "path": "scripts/package.py",
+      "sha256": "bb75664e748b451d24443a8692f805420d0ed85a32d638b09f6b64a915399ad6"
+    },
+    {
+      "path": "skills/github-discoverability/SKILL.md",
+      "sha256": "199525b4217e8ca3c61c6a08f59a57006692a9ea80fad0ef8e7a31b76c0d229f"
+    },
+    {
+      "path": "skills/github-discoverability/assets/output-templates.md",
+      "sha256": "5a6ffd4b2341fc75035a7f25eb8a33efb2c998d1912af2505ba38f9df5ff2be7"
+    },
+    {
+      "path": "skills/github-discoverability/references/learning.md",
+      "sha256": "9a280b3835dda34a8b4023255c78f3b61358549a40fbf60279d01502a83222ca"
+    },
+    {
+      "path": "skills/github-discoverability/references/proof.md",
+      "sha256": "23f27b4b8e8595c88906f969e78bd286ac923f6fb77999242d579906e1c83a93"
+    },
+    {
+      "path": "skills/github-discoverability/references/publish.md",
+      "sha256": "fb25d03ad632b6767cec7008f3df7cb33ec24e33d6302fc42a606c782f9f7546"
+    },
+    {
+      "path": "skills/github-discoverability/references/search.md",
+      "sha256": "deb2e7a8b377dd5d93ccc74c43dc5297198a1ef3c5434fb62b877e3784cf08d4"
+    },
+    {
+      "path": "skills/github-discoverability/scripts/preflight.py",
+      "sha256": "b7a9b525c8f254edee939e293ddb4248bc023693ed1253691dfae3f71504d6db"
+    },
+    {
+      "path": "tests/test_package.py",
+      "sha256": "a5170101fdb9313d8b43bb6a64af6c2846eb27ff0e45515bf53d9c789646bef3"
+    }
+  ]
+}
