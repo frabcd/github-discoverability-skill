@@ -1,7 +1,7 @@
 {
   "repository": "frabcd/github-discoverability-skill",
   "suggested_name": "github-discoverability-skill",
-  "description": "GitHub launch and publishing skill for coding agents. Publish an existing repository with relevant README/topics, explicit file allowlists, and verified readback.",
+  "description": "GitHub launch/publishing agent skill: publish allowlisted repository files.",
   "topics": [
     "agent-skills",
     "github",
